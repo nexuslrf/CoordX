@@ -9,7 +9,7 @@ import os
 import imageio
 sys.path.append( os.path.dirname( os.path.dirname( os.path.abspath(__file__) ) ) )
 import time
-import dataio, meta_modules, utils, training, loss_functions, modules
+import dataio, utils, training, loss_functions, modules
 import torch
 from torch.utils.data import DataLoader
 import configargparse

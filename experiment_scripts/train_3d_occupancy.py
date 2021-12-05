@@ -7,7 +7,7 @@ import sys
 import os
 sys.path.append( os.path.dirname( os.path.dirname( os.path.abspath(__file__) ) ) )
 import time, tqdm
-import dataio, meta_modules, utils, training, loss_functions, modules
+import dataio, utils, training, loss_functions, modules
 import torch
 from torch.utils.data import DataLoader
 import configargparse
