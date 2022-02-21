@@ -2,7 +2,7 @@
 
 PyTorch implementation of the paper CoordX: Accelerating Implicit Neural Representation with a Split MLP Architecture.
 
-### [Project Page](https://chrissun06.github.io/CoordX/) | Paper
+### [Project Page](https://chrissun06.github.io/CoordX/) | [Paper](https://arxiv.org/abs/2201.12425)
 
 ## Setup
 Python dependencies:
